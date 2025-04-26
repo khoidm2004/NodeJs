@@ -1,0 +1,2 @@
+Result here Hello world, Second txt file
+Appended content
